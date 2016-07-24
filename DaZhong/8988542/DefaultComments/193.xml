@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>浮云小吃货</username>
+    <usercontrib>贡献值400-999</usercontrib>
+    <rankrst>50</rankrst>
+    <average>人均  ￥60 </average>
+    <rst1>(很好)</rst1>
+    <rst2>(好)</rst2>
+    <rst3>(好)</rst3>
+    <content>本着对北京菜的热爱，一去再去，还特意介绍家人朋友去，但是非常非常令人失望。如果管理不改进的话，新客人没有，老客人也得罪光了。</content>
+    <recommend-dish-list>
+        <dish>鱼头泡饼</dish>
+    </recommend-dish-list>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>宫保鸡丁</dish>
+        <dish>牙签肠</dish>
+        <dish>芝士焗时蔬</dish>
+        <dish>马蹄甘蔗水</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+    </special-list>
+    <car-stop-info/>
+    <atmosphere-list/>
+    <time>13-09-16</time>
+    <zan_count>1</zan_count>
+    <reply_count>(1)
+</reply_count>
+</defaultcomment>

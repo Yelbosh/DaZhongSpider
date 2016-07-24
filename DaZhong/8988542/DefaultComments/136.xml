@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>hardware</username>
+    <usercontrib>贡献值100-199</usercontrib>
+    <rankrst>30</rankrst>
+    <average>人均  ￥60 </average>
+    <rst1>(很好)</rst1>
+    <rst2>(很好)</rst2>
+    <rst3>(很好)</rst3>
+    <content>菜价普遍偏贵，菜样比较多，口味中规中矩，来这吃最好先买团购代金券。
+</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>宫保鸡丁</dish>
+        <dish>京酱肉丝</dish>
+        <dish>瓤面筋烧丝瓜</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>停车位很紧张，最好别打算能停下</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>13-11-03</time>
+    <zan_count>1</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

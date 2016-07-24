@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>小饕和小餮</username>
+    <usercontrib>贡献值1000-1999</usercontrib>
+    <rankrst>30</rankrst>
+    <average>人均  ￥75 </average>
+    <rst1>(好)</rst1>
+    <rst2>(很好)</rst2>
+    <rst3>(很好)</rst3>
+    <content>班里聚餐来的这里，总体感觉还行，很家常的鲁菜，但没有太大的特点…</content>
+    <recommend-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>烤鸭</dish>
+        <dish>捞饭</dish>
+    </recommend-dish-list>
+    <tags/>
+    <favorate-dish-list/>
+    <special-list>
+        <special>无线上网</special>
+    </special-list>
+    <car-stop-info/>
+    <atmosphere-list/>
+    <time>13-06-22</time>
+    <zan_count></zan_count>
+    <reply_count>(4)
+</reply_count>
+</defaultcomment>

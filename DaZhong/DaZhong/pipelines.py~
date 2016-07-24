@@ -1,0 +1,61 @@
+# -*- coding:utf-8 -*-
+
+import tools
+from scrapy.exceptions import DropItem
+import re
+import urllib
+import time
+import exceptions
+import socket
+from scrapy import log
+import os
+from xml.dom.minidom import Document
+
+class FilterCityItemsPipeline(object):
+    def __init__(self):
+        #self.file = open('citylist', 'a')
+        self.file = open('allcitylist', 'a')
+        
+    def process_item(self, item, spider):
+        name = item['name']
+        url = item['url']
+        if name:
+            self.file.write(str(item['id']) + "\t" + tools._utf8(name) + "\t" + tools._utf8(url) + "\n")
+        self.file.flush()        
+        return item
+    pass
+
+#过滤代理ip
+class ProxyPipeline(object):
+    
+    def process_item(self, item, spider):
+        port = item['port']
+        port_re = re.compile('\d{1,5}')
+        ports   = port_re.findall(port)
+        if len(ports) == 0:
+            raise DropItem("can not find port in %s" % item['port'])
+        else:
+            item['port'] = ports[0]
+            
+            test_url = 'http://www.dianping.com/search/category/2/10/g311'
+            proxy_  = str('http://%s:%s' % (str(item['address']), str(item['port'])))
+            proxies = {'http':proxy_}
+            try:
+                socket.setdefaulttimeout(0.5)#设置超时时间 /s
+                data  = urllib.urlopen(test_url, proxies=proxies).read()
+                if 
+            except exceptions.IOError:
+                raise DropItem("==================the proxy %s:%s is bad==================" % (item['address'],str(item['port'])))
+            
+            fp   = open('./proxy.txt','a')
+            if item['address'] and item['port']:
+                line = item['address'].encode('utf8') + '\t' + item['port'].encode('utf8') + '\n'
+            fp.write(line)
+            fp.close()
+            return item
+
+
+
+
+
+        

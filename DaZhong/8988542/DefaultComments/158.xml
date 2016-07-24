@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>第一号水手</username>
+    <usercontrib>贡献值400-999</usercontrib>
+    <rankrst>40</rankrst>
+    <average>人均  ￥35 </average>
+    <rst1>(很好)</rst1>
+    <rst2>(非常好)</rst2>
+    <rst3>(很好)</rst3>
+    <content>点评中的试吃参加的活动，餐厅门脸不是很吸引人注意，有些小，但里面装修不错，优雅、大气，空间也不小，一楼主要是堂食，二楼是包间，很适合朋友同学聚会，一进大门就看到制作烤鸭的大炉子，明火烧的通红，要是冬天感觉很暖和啊，当天去得到了尊贵的礼遇，老板亲自过来介绍餐厅的发展，50岁的老板看起来很年轻，个头高高的穿的也很有品味。有气质，赞~~，当年22岁的女老板一坚持就是28年，如今依然保持着传统的口味同事还融入了各地方新菜系，中关村店是新店，据说主要经营者是她的儿子及其女朋友，当天见到的漂亮女孩非常干练，也很热情，没有想到很多菜还是她出去了旅游啊、吃饭啊学习来的，佩服呢~~</content>
+    <recommend-dish-list>
+        <dish>烤鸭</dish>
+        <dish>宫保鸡丁</dish>
+        <dish>鱼头泡饼</dish>
+        <dish>牙签肠</dish>
+        <dish>糯米枣</dish>
+        <dish>炸年糕</dish>
+    </recommend-dish-list>
+    <tags/>
+    <favorate-dish-list/>
+    <special-list>
+        <special>无线上网</special>
+        <special>是老字号</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>5个停车位。门口有收费停车</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>13-05-17</time>
+    <zan_count>2</zan_count>
+    <reply_count>(2)
+</reply_count>
+</defaultcomment>

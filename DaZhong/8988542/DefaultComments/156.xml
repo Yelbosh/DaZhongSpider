@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>北京风云888</username>
+    <usercontrib>贡献值100-199</usercontrib>
+    <rankrst>50</rankrst>
+    <average>人均  ￥80 </average>
+    <rst1>(非常好)</rst1>
+    <rst2>(非常好)</rst2>
+    <rst3>(非常好)</rst3>
+    <content>菜好，味道好，特别是里面的自然羊肉和鱼头泡饼非常不错的两个菜 不要错过哦
+</content>
+    <recommend-dish-list>
+        <dish>烤鸭</dish>
+        <dish>鱼头泡饼</dish>
+        <dish>孜然羊肉</dish>
+        <dish>炸年糕</dish>
+        <dish>蒜汁脆骨肉</dish>
+        <dish>糯米枣</dish>
+    </recommend-dish-list>
+    <tags/>
+    <favorate-dish-list/>
+    <special-list>
+        <special>无线上网</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>小院，无免费的</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>13-05-18</time>
+    <zan_count>2</zan_count>
+    <reply_count>(2)
+</reply_count>
+</defaultcomment>

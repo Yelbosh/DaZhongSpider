@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>fafas</username>
+    <usercontrib>贡献值400-999</usercontrib>
+    <rankrst>30</rankrst>
+    <average>人均  ￥120 </average>
+    <rst1>(好)</rst1>
+    <rst2>(好)</rst2>
+    <rst3>(一般)</rst3>
+    <content>请同学来吃饭，因为要就近，选了半天，就找到这个地方。打算省点钱，所以团购了几张代金券。</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>烤鸭</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>停车位很紧张，最好别打算能停下</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>13-11-17</time>
+    <zan_count>7</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

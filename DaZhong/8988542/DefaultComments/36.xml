@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>陆小臻爱美食</username>
+    <usercontrib>贡献值50-99</usercontrib>
+    <rankrst>50</rankrst>
+    <average>人均  ￥40 </average>
+    <rst1>(很好)</rst1>
+    <rst2>(很好)</rst2>
+    <rst3>(很好)</rst3>
+    <content>偏家常菜口味，不算便宜但是很好吃。感觉肉菜做的都不错，喜欢蒜汁脆骨肉，酸菜做的一般。
+</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>墨鱼饺子</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可送外卖</special>
+        <special>朋友聚餐</special>
+        <special>家庭聚会</special>
+        <special>随便吃吃</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>餐厅外有停车位，大约一小时5-6块的样子</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>01-04</time>
+    <zan_count>1</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

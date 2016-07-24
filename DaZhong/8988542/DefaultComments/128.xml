@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>左耳小婧</username>
+    <usercontrib>贡献值400-999</usercontrib>
+    <rankrst>40</rankrst>
+    <average>人均  ￥50 </average>
+    <rst1>(很好)</rst1>
+    <rst2>(很好)</rst2>
+    <rst3>(一般)</rst3>
+    <content>过生日请好朋友们在这里吃饭哈~离学校很近，又有团购。</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>孜然羊肉</dish>
+        <dish>芥末龙豆</dish>
+        <dish>卤水金钱肚</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+        <special>朋友聚餐</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>停车位很紧张，最好别打算能停下</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>13-11-15  更新于11-21 13:56</time>
+    <zan_count>5</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

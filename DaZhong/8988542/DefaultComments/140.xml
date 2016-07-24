@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>娜家小妞</username>
+    <usercontrib>贡献值2000-4999</usercontrib>
+    <rankrst>40</rankrst>
+    <average>人均  ￥60 </average>
+    <rst1>(很好)</rst1>
+    <rst2>(好)</rst2>
+    <rst3>(好)</rst3>
+    <content>地铁4号线人民大学向北500米路西，就能看到“东四民芳”的大招牌，饭点人不多，提前订位，还算方便.</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>孜然羊肉</dish>
+        <dish>芝士焗时蔬</dish>
+        <dish>手撕包菜</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+        <special>家庭聚会</special>
+        <special>休闲小憩</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>停车位很紧张，最好别打算能停下</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>13-10-29</time>
+    <zan_count>7</zan_count>
+    <reply_count>(1)
+</reply_count>
+</defaultcomment>

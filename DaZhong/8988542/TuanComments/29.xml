@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>luc_0</username>
+    <usercontrib>贡献值400-999</usercontrib>
+    <rankrst>30</rankrst>
+    <average>人均  ￥40 </average>
+    <rst1>(好)</rst1>
+    <rst2>(好)</rst2>
+    <rst3>(好)</rst3>
+    <content>点了菜单上推荐的一个青笋干炒腊肉，香煎小比目鱼和一个田螺，外加一杯马蹄水。口味都不错，但是价格偏贵。团了一张百元代金券，还付了8元现金。本来想去吃烤鸭的，但是他们家的烤鸭必须点一整只，所以放弃了。既然是家常菜馆，为何没有半只烤鸭？烤鸭师傅闲得在那里都没事干。要想吃得好一点，人均肯定是高于60的。只是因为有团购的代金券才能低于菜单上的定价。
+</content>
+    <recommend-dish-list>
+        <dish>笋干炒腊肉</dish>
+    </recommend-dish-list>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>宫保鸡丁</dish>
+        <dish>牙签肠</dish>
+        <dish>芝士焗时蔬</dish>
+        <dish>马蹄甘蔗水</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可送外卖</special>
+        <special>是老字号</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>路边有收费停车位</carstop>
+    </car-stop-info>
+    <atmosphere-list>
+        <atmosphere>情侣约会</atmosphere>
+        <atmosphere>朋友聚餐</atmosphere>
+        <atmosphere>家庭聚会</atmosphere>
+    </atmosphere-list>
+    <time>13-08-23</time>
+    <zan_count>3</zan_count>
+    <reply_count>(1)
+</reply_count>
+</defaultcomment>

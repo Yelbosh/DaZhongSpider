@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>Janeyina</username>
+    <usercontrib>贡献值100-199</usercontrib>
+    <rankrst>50</rankrst>
+    <average>人均  ￥65 </average>
+    <rst1>(非常好)</rst1>
+    <rst2>(非常好)</rst2>
+    <rst3>(非常好)</rst3>
+    <content>跟朋友聚会去的，身在中关村已经两年了，居然不知道有这个地方，奔着鱼头泡饼去的，结果发现都特别好吃。</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>糯米枣</dish>
+        <dish>蒜汁脆骨肉</dish>
+        <dish>双椒烤翅</dish>
+        <dish>蒸凤爪</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+        <special>情侣约会</special>
+        <special>朋友聚餐</special>
+        <special>商务宴请</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>无</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>13-10-11</time>
+    <zan_count>1</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>昵称加昵称</username>
+    <usercontrib>贡献值100-199</usercontrib>
+    <rankrst>20</rankrst>
+    <average>人均  ￥70 </average>
+    <rst1>(好)</rst1>
+    <rst2>(一般)</rst2>
+    <rst3>(一般)</rst3>
+    <content>去了两次，上菜点了3次换了3波人，居然都忘了。浪费时间啊。味道凑合。没停车位，这个是虚假信息。
+</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>蒜汁脆骨肉</dish>
+        <dish>牙签肠</dish>
+        <dish>芥末龙豆</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>收费</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>01-06</time>
+    <zan_count>1</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

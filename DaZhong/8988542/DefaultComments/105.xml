@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>我爱咖啡店</username>
+    <usercontrib>贡献值100-199</usercontrib>
+    <rankrst>20</rankrst>
+    <average>人均  ￥70 </average>
+    <rst1>(一般)</rst1>
+    <rst2>(一般)</rst2>
+    <rst3>(一般)</rst3>
+    <content>据说名气很响，可是真的很很一般。首先灯光昏暗给人感觉就不好，这种家庭餐厅应该亮堂点，或者暗得有格调。然后菜品味道真没给我留下什么印象
+</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>无线上网</special>
+        <special>是老字号</special>
+    </special-list>
+    <car-stop-info/>
+    <atmosphere-list/>
+    <time>03-05</time>
+    <zan_count>1</zan_count>
+    <reply_count>(1)
+</reply_count>
+</defaultcomment>

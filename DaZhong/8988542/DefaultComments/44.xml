@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>可是我好想吃啊</username>
+    <usercontrib>贡献值100-199</usercontrib>
+    <rankrst>30</rankrst>
+    <average>人均  ￥70 </average>
+    <rst1>(非常好)</rst1>
+    <rst2>(很好)</rst2>
+    <rst3>(好)</rst3>
+    <content>菜不错，就是价格小贵。团购后略微合算了些！不过以后还是会再去的！
+</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>宫保鸡丁</dish>
+        <dish>京酱肉丝</dish>
+        <dish>肉龙</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+        <special>无线上网</special>
+    </special-list>
+    <car-stop-info/>
+    <atmosphere-list/>
+    <time>01-29</time>
+    <zan_count>1</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

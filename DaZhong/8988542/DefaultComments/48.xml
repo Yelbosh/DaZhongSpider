@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>特務J</username>
+    <usercontrib>贡献值1000-1999</usercontrib>
+    <rankrst>20</rankrst>
+    <average>人均  ￥60 </average>
+    <rst1>(好)</rst1>
+    <rst2>(好)</rst2>
+    <rst3>(很差)</rst3>
+    <content>几乎无服务 服务员耷拉一张臭脸 价位在家常菜里中等水平 菜量较大 味道尚可
+</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>烤鸭</dish>
+        <dish>手撕包菜</dish>
+        <dish>干锅有机菜花特写</dish>
+        <dish>麻将糖饼</dish>
+        <dish>酸辣汤</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+        <special>无线上网</special>
+    </special-list>
+    <car-stop-info/>
+    <atmosphere-list/>
+    <time>01-24</time>
+    <zan_count>1</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>mtt0810</username>
+    <usercontrib></usercontrib>
+    <rankrst>50</rankrst>
+    <average>人均  ￥100 </average>
+    <rst1>(非常好)</rst1>
+    <rst2>(非常好)</rst2>
+    <rst3>(非常好)</rst3>
+    <content>老牌儿餐厅 很不错 搬到海淀来了离家更近了 开心哦 以后常来
+</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>烤鸭</dish>
+        <dish>牙签肠</dish>
+        <dish>蒜汁脆骨肉</dish>
+        <dish>马蹄甘蔗水</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+    </special-list>
+    <car-stop-info/>
+    <atmosphere-list/>
+    <time>02-16</time>
+    <zan_count>2</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

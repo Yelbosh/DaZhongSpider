@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>oioioi30</username>
+    <usercontrib>贡献值400-999</usercontrib>
+    <rankrst>50</rankrst>
+    <average>人均  ￥50 </average>
+    <rst1>(非常好)</rst1>
+    <rst2>(非常好)</rst2>
+    <rst3>(非常好)</rst3>
+    <content>一桌12个人,上了10几个菜,几乎都吃光了。说明菜的确招大家喜欢。</content>
+    <recommend-dish-list>
+        <dish>烤鸭</dish>
+        <dish>宫保鸡丁</dish>
+        <dish>鱼头泡饼</dish>
+        <dish>炸年糕</dish>
+    </recommend-dish-list>
+    <tags/>
+    <favorate-dish-list/>
+    <special-list>
+        <special>无线上网</special>
+        <special>是老字号</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>731</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>13-05-15</time>
+    <zan_count>2</zan_count>
+    <reply_count>(3)
+</reply_count>
+</defaultcomment>

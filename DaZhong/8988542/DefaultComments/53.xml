@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>李宁三</username>
+    <usercontrib>贡献值400-999</usercontrib>
+    <rankrst>30</rankrst>
+    <average>人均  ￥75 </average>
+    <rst1>(好)</rst1>
+    <rst2>(好)</rst2>
+    <rst3>(一般)</rst3>
+    <content>鸭翅，有翅中和翅尖，麻辣口，味道还可以，就是翅膀太瘦了。好在挺软烂的。</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>芝士焗时蔬</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+        <special>无线上网</special>
+    </special-list>
+    <car-stop-info/>
+    <atmosphere-list/>
+    <time>01-19</time>
+    <zan_count>3</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

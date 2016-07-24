@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>萧怡紫</username>
+    <usercontrib>贡献值1000-1999</usercontrib>
+    <rankrst>40</rankrst>
+    <average>人均  ￥100 </average>
+    <rst1>(很好)</rst1>
+    <rst2>(很好)</rst2>
+    <rst3>(很好)</rst3>
+    <content>2013-8  4人消费329元（使用3张76元=100元团购券后）</content>
+    <recommend-dish-list>
+        <dish>烤鸭</dish>
+        <dish>芝士焗时蔬</dish>
+        <dish>芥末龙豆</dish>
+        <dish>酸辣汤</dish>
+    </recommend-dish-list>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>宫保鸡丁</dish>
+        <dish>牙签肠</dish>
+        <dish>芝士焗时蔬</dish>
+        <dish>马蹄甘蔗水</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可送外卖</special>
+        <special>是老字号</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>路边有收费停车位</carstop>
+    </car-stop-info>
+    <atmosphere-list>
+        <atmosphere>情侣约会</atmosphere>
+        <atmosphere>朋友聚餐</atmosphere>
+        <atmosphere>家庭聚会</atmosphere>
+    </atmosphere-list>
+    <time>13-09-09</time>
+    <zan_count>3</zan_count>
+    <reply_count>(1)
+</reply_count>
+</defaultcomment>

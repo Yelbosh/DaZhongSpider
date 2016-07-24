@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>liangbin_104</username>
+    <usercontrib>贡献值50-99</usercontrib>
+    <rankrst>50</rankrst>
+    <average>人均  ￥60 </average>
+    <rst1>(非常好)</rst1>
+    <rst2>(非常好)</rst2>
+    <rst3>(很好)</rst3>
+    <content>老店开的新分店，味道菜品都很好，推荐啊推荐，喜欢吃这个呢啊啊
+</content>
+    <recommend-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>手撕包菜</dish>
+        <dish>肉龙</dish>
+        <dish>鸭酥</dish>
+    </recommend-dish-list>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>宫保鸡丁</dish>
+        <dish>牙签肠</dish>
+        <dish>芝士焗时蔬</dish>
+        <dish>马蹄甘蔗水</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+    </special-list>
+    <car-stop-info/>
+    <atmosphere-list/>
+    <time>13-09-16</time>
+    <zan_count>8</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>

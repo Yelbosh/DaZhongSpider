@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>shangluo</username>
+    <usercontrib>贡献值200-399</usercontrib>
+    <rankrst>40</rankrst>
+    <average>人均  ￥80 </average>
+    <rst1>(很好)</rst1>
+    <rst2>(很好)</rst2>
+    <rst3>(很好)</rst3>
+    <content>还不错，有代金券比较划算，就是老北京菜为主，比一般饭馆贵点，招牌菜可以试试，但没什么惊喜
+</content>
+    <recommend-dish-list/>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>孜然羊肉</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+        <special>是老字号</special>
+        <special>情侣约会</special>
+        <special>朋友聚餐</special>
+        <special>家庭聚会</special>
+        <special>商务宴请</special>
+    </special-list>
+    <car-stop-info>
+        <carstop>无</carstop>
+    </car-stop-info>
+    <atmosphere-list/>
+    <time>13-09-24</time>
+    <zan_count>1</zan_count>
+    <reply_count>(1)
+</reply_count>
+</defaultcomment>

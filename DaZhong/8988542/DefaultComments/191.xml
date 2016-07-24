@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<defaultcomment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <username>牛牛爹爹1999</username>
+    <usercontrib></usercontrib>
+    <rankrst>50</rankrst>
+    <average>人均  ￥60 </average>
+    <rst1>(非常好)</rst1>
+    <rst2>(非常好)</rst2>
+    <rst3>(非常好)</rst3>
+    <content>最实惠的是鱼头泡饼，最难忘的是民芳田螺，最好吃的是香葱烙饼。
+</content>
+    <recommend-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>手撕包菜</dish>
+        <dish>肉龙</dish>
+        <dish>鸭酥</dish>
+    </recommend-dish-list>
+    <tags/>
+    <favorate-dish-list>
+        <dish>鱼头泡饼</dish>
+        <dish>宫保鸡丁</dish>
+        <dish>牙签肠</dish>
+        <dish>芝士焗时蔬</dish>
+        <dish>马蹄甘蔗水</dish>
+    </favorate-dish-list>
+    <special-list>
+        <special>可以刷卡</special>
+    </special-list>
+    <car-stop-info/>
+    <atmosphere-list/>
+    <time>13-09-16</time>
+    <zan_count>8</zan_count>
+    <reply_count>
+</reply_count>
+</defaultcomment>
